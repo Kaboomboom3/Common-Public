@@ -1,3 +1,6 @@
 rootProject.name = 'common'
 
 include 'robot'
+
+// Example projects
+include 'examples:trajectory-generation'
